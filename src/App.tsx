@@ -53,6 +53,8 @@ function App() {
   }
 
 
+  // Se resetea todo y se inicia una nueva partida
+
   const handleReset = () => {
 
     const newWord = getRandomWord()
